@@ -1,5 +1,5 @@
 {
-  "name": "MERN User Authentication",
+  "name": "mern user authentication",
   "version": "1.0.0",
   "description": "MERN User Authentication App with functioning backend, built on top of Sandeep Raveesh's simple-react-full-stack boilerplate",
   "main": "src/server/index.js",
